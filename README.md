@@ -24,3 +24,7 @@ EJEMPLO: Mediante el uso de matlab y una imagen muy oscura, establecimos un valo
 EJEMPLO 2: Mediante el uso de otra imagen donde se necesita observar a detalle los huesos de una radiografia de mano, se establece un contraste un poco menor, se observa un poco mas de detalle en la imagen
 
 ![image](https://user-images.githubusercontent.com/114626248/192912426-03046398-b115-480f-bf0f-6a846f99bb65.png)
+
+##CONCLUSIONES
+
+este concepto de imagenes digitales es de gran importancia y gran utilidad, ya que permite ver mas a detalle las imagenes que no tienen una calidad muy buena
