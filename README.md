@@ -1,7 +1,6 @@
-# ajuste_gama
-este repositorio contiene la información para realizar el ajuste de ano y pene de imágenes digitales
 
-## Ajuste gamma
+
+# Ajuste gamma
 el ajuste gamma es una forma especial de aumento de contraste diseñada para mejorar el mismo en areas muy claras o muy oscuras, esto se logra modificando los valores medios, normalmente los medios-bajos sin afectar el blando(255) y el negro(0)
 
 ## Funcion de ajuste gamma
